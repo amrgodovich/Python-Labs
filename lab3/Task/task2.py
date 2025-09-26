@@ -6,7 +6,7 @@
 #    - Print how many unique emails were found.
 
 import re
-from task7 import log_time
+from Task.task7 import log_time
 
 @log_time
 def regex_log_cleaner():

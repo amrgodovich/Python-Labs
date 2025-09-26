@@ -6,8 +6,8 @@
 #    - Write the results into "math_report.txt".
 #    - Confirm file was created and print its content.
 import math
-from helpers import validate_coma_list
-from task7 import log_time
+from Task.helpers import validate_coma_list
+from Task.task7 import log_time
 
 @log_time
 def math_automation():

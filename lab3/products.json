@@ -1,0 +1,12 @@
+[
+    {
+        "product": "a",
+        "price": 5.0,
+        "discounted": 4.5
+    },
+    {
+        "product": "b",
+        "price": 6.0,
+        "discounted": 5.4
+    }
+]

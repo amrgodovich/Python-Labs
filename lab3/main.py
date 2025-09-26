@@ -1,9 +1,9 @@
-from task1 import math_automation
-from task2 import regex_log_cleaner
-from task3 import reminder
-from task4 import product_data_transformer
-from task5 import os_file_manager
-from task6 import random_data_generator
+from Task.task1 import math_automation
+from Task.task2 import regex_log_cleaner
+from Task.task3 import reminder
+from Task.task4 import product_data_transformer
+from Task.task5 import os_file_manager
+from Task.task6 import random_data_generator
 
 def mainmenu():
     tasks = {

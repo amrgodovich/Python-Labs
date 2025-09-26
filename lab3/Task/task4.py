@@ -1,5 +1,5 @@
 import json
-from helpers import validate_coma_list,validate_coma_list_st
+from Task.helpers import validate_coma_list,validate_coma_list_st
 
 def product_data_transformer():
     while True:

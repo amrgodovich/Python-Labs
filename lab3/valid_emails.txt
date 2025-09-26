@@ -1,0 +1,5 @@
+admin@mailserver.org
+boss123@company.co.uk
+jane_smith99@gmail.com
+john.doe@example.com
+michael-23@yahoo.com

@@ -5,10 +5,10 @@ Number: 2.0
   Square Root: 1.4142135623730951
   Area of Circle: 4.444671196029727
 ----------------
-Number: 3.0
-  Floor: 3
-  Ceil: 3
-  Square Root: 1.7320508075688772
-  Area of Circle: 5.443588252359328
+Number: 6.0
+  Floor: 6
+  Ceil: 6
+  Square Root: 2.449489742783178
+  Area of Circle: 7.698396334461416
 ----------------
 ------------------------

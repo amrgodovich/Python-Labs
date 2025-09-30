@@ -1,12 +1,12 @@
 [
     {
-        "product": "a",
-        "price": 5.0,
-        "discounted": 4.5
+        "product": "d",
+        "price": 1.0,
+        "discounted": 0.9
     },
     {
-        "product": "b",
-        "price": 6.0,
-        "discounted": 5.4
+        "product": "f",
+        "price": 2.0,
+        "discounted": 1.8
     }
 ]
